@@ -14,6 +14,16 @@ const About: React.FC = () => {
           React application and includes a modal component which displays list
           of conditions.
         </p>
+        <p className="mt-4">
+          <a
+            className="font-bold underline hover:text-red"
+            target="_blank"
+            href="/assessment.pdf"
+            download
+          >
+            Assessment PDF
+          </a>
+        </p>
       </section>
     </Container>
   );

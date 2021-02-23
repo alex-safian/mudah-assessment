@@ -8,6 +8,8 @@
 
 This is an assessment for Mudah which is done by Alireza Safian. It is a SPA React application and includes Products and Product page.
 
+[Assessment PDF](public/assessment.pdf)
+
 [Demo](https://mudah-assessment.netlify.app/)
 
 ### Build
