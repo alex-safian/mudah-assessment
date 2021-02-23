@@ -6,7 +6,7 @@
 
 # [Mudah.my](https://www.mudah.my/) Assessment
 
-This is an assessment for Mudah which is done by Alireza Safian. It is React application and includes a table component which displays list of employees' details.
+This is an assessment for Mudah which is done by Alireza Safian. It is a SPA React application and includes Products and Product page.
 
 [Demo](https://mudah-assessment.netlify.app/)
 
@@ -15,11 +15,12 @@ This is an assessment for Mudah which is done by Alireza Safian. It is React app
 React.js has been used as the main framework and tailwindcss as CSS framework:
 
 - [React](https://github.com/facebook/react)
+- [React Route](https://reactrouter.com/)
 - [Redux](https://redux.js.org/)
+- [Rematchjs](https://rematchjs.org/)
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
-
 
 ## Getting started
 
@@ -74,7 +75,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Author
 
-- **Alireza Safian** - _Initial work_ 
+- **Alireza Safian** - _Initial work_
   - [Linkedin](https://www.linkedin.com/in/safian/)
   - [alireza.safian@gmail.com](mailto:alireza.safian@gmail.com)
   - [Stackoverflow](https://stackoverflow.com/users/4711404/alex)
