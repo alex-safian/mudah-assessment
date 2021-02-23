@@ -21,10 +21,9 @@ const Links: React.FC = () => {
           {link.text}
         </NavLink>
       ))}
-      {/* @TODO: Update link */}
       <a
         className="ml-auto self-center"
-        href="#"
+        href="https://github.com/alex-safian/mudah-assessment"
         target="_blank"
         rel="noreferrer"
       >
