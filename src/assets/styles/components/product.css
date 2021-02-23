@@ -1,0 +1,7 @@
+.single-product {
+  @screen md {
+    .similar-width {
+      width: calc(100% - 325px - 1.5rem);
+    }
+  }
+}
